@@ -3,9 +3,9 @@ import { FiExternalLink } from "react-icons/fi";
 
 const projects = [
   {
-    title: "E-Commerce Website",
+    title: "AirBnb Website",
     description:
-      "Full Stack E-Commerce Website built with React, Node.js, Express and MongoDB.",
+      "Full Stack AirBnb Website built with React, Node.js, Express and MongoDB.",
     image: "/projects/ecommerce.png",
     github: "#",
     demo: "#",
