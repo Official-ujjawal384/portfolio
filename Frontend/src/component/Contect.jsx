@@ -28,7 +28,7 @@ export default function Contact() {
 
               <div className="flex items-center gap-3">
                 <FaPhone className="text-purple-500" />
-                <span>+91 98765 43210</span>
+                <span>+91 90********</span>
               </div>
 
               <div className="flex items-center gap-3">
